@@ -2,13 +2,13 @@
 	"credit": "Made with Blockbench",
 	"render_type": "translucent",
 	"textures": {
-		"0": "gachapon:block/upper_gacha",
+		"0": "gachapon:block/upper_gacha_machine",
 		"1": "gachapon:block/common_capsule",
 		"2": "gachapon:block/uncommon_capsule",
 		"3": "gachapon:block/rare_capsule",
 		"4": "gachapon:block/epic_capsule",
 		"5": "gachapon:block/legendary_capsule",
-		"particle": "gachapon:block/upper_gacha"
+		"particle": "gachapon:block/upper_gacha_machine"
 	},
 	"elements": [
 		{
